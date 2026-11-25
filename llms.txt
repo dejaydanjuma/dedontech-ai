@@ -1,0 +1,23 @@
+# Dedon Tech
+
+> Dedon Tech is an independent technology publication written by Amedu Danjuma, offering in-depth analysis of Nigerian fintech, energy, and AI alongside practical software, legal tech, and insurance guides for readers in Nigeria, the US, the UK, and Canada.
+
+## Core Pages & Policies
+- [Home](https://www.dedontech.com.ng/): Latest analyses, regulatory breakdowns, and technology comparisons.
+- [About Dedon Tech](https://www.dedontech.com.ng/p/about.html): Background on the publication, author credentials, and coverage scope.
+- [Editorial Policy](https://www.dedontech.com.ng/p/editorial-policy.html): Research methodology, independence disclosures, and correction standards.
+- [Site Map](https://www.dedontech.com.ng/p/site-map.html): Full index of published articles and guides.
+- [Contact](https://www.dedontech.com.ng/p/contact.html): Editorial inquiries, corrections, and contact details.
+
+## Primary Coverage Areas
+- [Fintech](https://www.dedontech.com.ng/search/label/Fintech): Nigerian mobile money, CBN regulations, OPay, MTN MoMo, open banking, real-time payments, and automated wealth tools.
+- [Energy & Infrastructure](https://www.dedontech.com.ng/search/label/Energy): Nigerian refining, pipelines, solar energy initiatives, and telecom/fibre infrastructure analysis.
+- [Artificial Intelligence](https://www.dedontech.com.ng/search/label/Artificial%20Intelligence): AI policy, governance, safety, African language models, and practical enterprise AI workflows.
+- [AI in Legal Tech](https://www.dedontech.com.ng/search/label/AI%20in%20Legal%20Tech): Legal case management software, e-discovery, agentic workflows, and HIPAA/SOC 2 compliance for US law firms.
+- [InsurTech](https://www.dedontech.com.ng/search/label/InsurTech): Usage-based telematics car insurance, cyber insurance policies, and claims automation for UK, US, and Canadian policyholders.
+- [B2B SaaS & Web Development](https://www.dedontech.com.ng/search/label/B2B%20SaaS): Software pricing comparisons, cybersecurity patches, PHP development, and technical SEO guides.
+
+## Regional Guides
+- [US Guides](https://www.dedontech.com.ng/search/label/US%20Guide): Legal tech, cyber insurance, and software comparisons tailored to US businesses and professionals.
+- [UK Guides](https://www.dedontech.com.ng/search/label/UK%20Guide): UK telematics insurance, digital banking, and regulatory comparisons.
+- [Canada Guides](https://www.dedontech.com.ng/search/label/Canada%20Guide): Canadian payment rails, fintech automation, and financial software guides.
